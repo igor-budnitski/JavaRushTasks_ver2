@@ -9,3 +9,14 @@
 2022-12-12 10:59:37 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
 2022-12-12 10:59:37 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
 2022-12-12 10:59:37 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-12 11:25:41 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-12 11:25:42 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-12 11:25:47 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-12 11:25:49 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-12 11:28:21 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-12 11:28:21 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/JavaRushTasks/1.JavaSyntax/src/com
+2022-12-12 11:28:21 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/JavaRushTasks/1.JavaSyntax/src/com/javarush
+2022-12-12 11:28:21 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/JavaRushTasks/1.JavaSyntax/src/com/javarush/task
+2022-12-12 11:28:21 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro
+2022-12-12 11:28:21 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task05
+2022-12-12 11:28:21 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task05/task0510
