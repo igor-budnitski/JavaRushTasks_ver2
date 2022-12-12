@@ -1,0 +1,11 @@
+2022-12-12 10:59:36 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-12 10:59:36 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-12 10:59:36 INFO  ProjectStartupHandler.setAutoscrolls(346) - Autoscrolls successfully set
+2022-12-12 10:59:36 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(589) - The session is not set in the property file.
+2022-12-12 10:59:36 INFO  ApacheHttpClient.login(250) - Waiting for server response.
+2022-12-12 10:59:36 INFO  ApacheHttpClient.login(254) - responseCode = 200
+2022-12-12 10:59:36 INFO  ApacheHttpClient.login(277) - JSESSIONID OK
+2022-12-12 10:59:37 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-12 10:59:37 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-12 10:59:37 INFO  ApacheHttpClient.startGA(36) - GAService started.
