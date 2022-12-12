@@ -46,3 +46,21 @@
 2022-12-12 15:24:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-12-12 15:24:03 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-12-12 15:24:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-12 17:55:23 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-12 17:55:23 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-12 17:55:23 INFO  ProjectStartupHandler.setAutoscrolls(346) - Autoscrolls successfully set
+2022-12-12 17:55:23 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-12 17:55:23 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-12 17:55:54 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-12-12 17:55:54 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-12 17:55:55 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-12 17:55:55 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-12 19:07:02 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-12 19:07:02 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-12 19:07:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-12 19:07:03 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-12 19:07:03 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-12 19:07:03 INFO  ApacheHttpClient.startGA(36) - GAService started.
