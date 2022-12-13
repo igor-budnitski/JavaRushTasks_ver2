@@ -87,3 +87,14 @@
 2022-12-12 20:32:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-12-12 20:32:39 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-12-12 20:32:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-12 20:33:13 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-12-12 20:33:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-12 20:33:14 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-13 07:51:44 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-13 07:51:44 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-13 07:51:44 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-13 07:51:44 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-13 07:51:44 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-13 07:51:44 INFO  ApacheHttpClient.startGA(36) - GAService started.

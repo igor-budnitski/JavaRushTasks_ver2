@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task05/task0515/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task05/task0515/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
-    </list>
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,13 +97,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\intellijSandbox\JavaRushTasks" />
@@ -536,7 +530,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670864887450</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Initial commit">
+      <created>1670869972804</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670869972804</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial commit">
+      <created>1670869988533</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670869988533</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
