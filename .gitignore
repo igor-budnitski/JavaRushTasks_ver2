@@ -1,2 +1,3 @@
-.out.log
-.JavaRushPlugin.properties
+/.idea
+/out.log
+/JavaRushPlugin.properties
