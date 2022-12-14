@@ -12324,3 +12324,20 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2022-12-14 07:37:24 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
 2022-12-14 07:37:24 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
 2022-12-14 07:37:24 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-14 08:00:24 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-14 08:00:24 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-14 08:00:25 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-14 08:00:25 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/igorb/Desktop/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task06/task0603
+2022-12-14 08:02:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-14 08:02:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-14 08:02:22 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-14 08:02:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-14 08:02:28 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-14 08:02:29 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-14 08:02:29 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-14 08:02:29 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/igorb/Desktop/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task06/task0604
+2022-12-14 08:02:30 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-14 08:13:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-14 08:13:37 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-14 08:13:38 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-14 08:13:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
