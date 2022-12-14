@@ -7,7 +7,7 @@ package com.javarush.task.pro.task06.task0605;
 public class Solution {
 
     public static void main(String[] args) {
-        int[] array = {10, 11, 22, 33, 44, 55, 66, 77, 88, 99};
+        int[] array = {10, 11, 22, 33, 44, 55, 66, 77, 88, 99,100,101};
         printArray(array);
         reverseArray(array);
         printArray(array);
