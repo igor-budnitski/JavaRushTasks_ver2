@@ -13004,3 +13004,16 @@ java.net.UnknownHostException: javarush.com
 2022-12-16 17:56:34 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-12-16 17:56:35 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-12-16 17:56:35 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-16 19:31:05 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-12-16 19:31:06 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-16 19:31:06 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-16 19:31:06 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-16 19:31:06 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-12-17 20:14:41 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-17 20:14:41 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.01 ----------
+
+2022-12-17 20:14:41 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-17 20:14:42 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-17 20:14:42 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-17 20:14:42 INFO  ApacheHttpClient.startGA(36) - GAService started.
