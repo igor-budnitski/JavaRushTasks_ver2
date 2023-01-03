@@ -38,10 +38,11 @@ public class Solution {
         if (hexNumber == null || hexNumber.equals("")){
             return 0;
         }
-
         int result = 0;
+        int power = hexNumber.length() - 1;
         for (int i = 0; i < hexNumber.length(); i++) {
-            
+            result = result + (Character.getNumericValue(hexNumber.charAt(i)) * (int) Math.pow(16, power));
+            power -= 1;
         }
         return result;
     }
