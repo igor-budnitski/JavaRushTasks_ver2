@@ -13827,3 +13827,10 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2023-01-03 16:41:16 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
 2023-01-03 16:41:16 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
 2023-01-03 16:41:16 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-01-04 12:50:26 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2023-01-04 12:50:26 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.02 ----------
+
+2023-01-04 12:50:26 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-01-04 12:50:26 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2023-01-04 12:50:26 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2023-01-04 12:50:26 INFO  ApacheHttpClient.startGA(36) - GAService started.
