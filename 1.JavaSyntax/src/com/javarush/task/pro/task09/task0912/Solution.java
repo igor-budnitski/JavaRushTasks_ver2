@@ -10,11 +10,9 @@ public class Solution {
         for (String url : urls) {
             String protocol = checkProtocol(url);
             String domain = checkDomain(url);
-
             System.out.println("У URL-адреса - " + url + ", сетевой протокол - " + protocol + ", домен - " + domain);
         }
-        System.out.println("*******************************************");
-
+        System.out.println("****************************************");
     }
 
     public static String checkProtocol(String url) {
@@ -31,6 +29,8 @@ public class Solution {
 
     public static String checkDomain(String url) {
         if (url.endsWith("com") || url.endsWith("net") || url.endsWith("org") || url.endsWith("ru")){
+            String[] b = url.split("\\.");
+            return b[b.length-1].toString();
         }
         return "неизвестный";
     }
