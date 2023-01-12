@@ -16,12 +16,6 @@ public class Solution {
 
     public static String[] getTokens(String query, String delimiter) {
         StringTokenizer st = new StringTokenizer(query, delimiter);
-        String[] words = query.split("\\.");
-        int index = words.length;
-        String[] strArray = new String[index];
-        for (int i = 0; i < strArray.length; i++) {
-            strArray[i] = st.nextToken();
-        }
-        return strArray;
+        return query.split(delimiter);
     }
 }
