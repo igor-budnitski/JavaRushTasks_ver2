@@ -14162,3 +14162,25 @@ com.homework.plugin.analytics.PluginWarningException: warning
 
 2023-01-13 15:18:37 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
 2023-01-13 15:18:38 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-01-13 15:20:32 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-13 15:20:32 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-13 15:20:37 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-01-13 15:20:37 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-13 15:20:49 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-13 15:20:49 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-01-13 15:20:50 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-01-13 15:20:50 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task10/task1002
+2023-01-13 15:35:02 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-13 15:35:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-13 15:35:03 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-01-13 15:35:04 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-13 15:49:08 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2023-01-13 15:49:08 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-13 15:49:08 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-13 15:49:08 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2023-01-14 12:41:03 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2023-01-14 12:41:03 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.02 ----------
+
+2023-01-14 12:41:03 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-01-14 12:41:03 INFO  ApacheHttpClient.startGA(36) - GAService started.
