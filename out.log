@@ -14274,3 +14274,24 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2023-01-17 15:16:41 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
 2023-01-17 15:16:41 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
 2023-01-17 15:16:41 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-01-17 15:28:17 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2023-01-17 15:28:17 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.02 ----------
+
+2023-01-17 15:28:17 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-01-17 15:28:18 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2023-01-17 15:28:18 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2023-01-17 15:28:18 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-01-17 16:09:48 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2023-01-17 16:09:49 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2023-01-18 16:32:14 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2023-01-18 16:32:14 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.02 ----------
+
+2023-01-18 16:32:14 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-01-18 16:32:14 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2023-01-18 16:32:14 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2023-01-18 16:32:14 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-01-18 16:32:24 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-18 16:32:25 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-01-18 16:32:26 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-01-18 16:32:26 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/igorb/Desktop/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task10/task1009
