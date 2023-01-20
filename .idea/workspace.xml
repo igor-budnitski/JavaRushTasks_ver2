@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1013/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1013/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1014/Market.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1014/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1015/Hedgehog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1015/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1016/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1016/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1016/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1017/Africa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1017/Antarctica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1017/Australia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1017/Earth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1017/Eurasia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1017/NorthAmerica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1017/SouthAmerica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1017/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1018/Coordinate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1018/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/pro/task10/task1018/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +24,13 @@
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -129,7 +139,7 @@
       <recent name="D:\intellijSandbox\JavaRushTasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.com.javarush.task.pro.task10.task1018.Solution">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -358,13 +368,13 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1011.Car" />
+    <configuration name="Earth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1017.Earth" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task10.task1011.*" />
+          <option name="PATTERN" value="com.javarush.task.pro.task10.task1017.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -400,20 +410,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Memory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1012.Memory" />
-      <module name="1.JavaSyntax" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.pro.task10.task1012.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1016.Solution" />
       <module name="1.JavaSyntax" />
@@ -430,6 +426,20 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.javarush.task.pro.task10.task1018.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.pro.task10.task1018.Solution" />
+      <module name="1.JavaSyntax" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.pro.task10.task1018.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -467,11 +477,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.javarush.task.pro.task10.task1018.Solution" />
+        <item itemvalue="Application.Earth" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Hedgehog" />
         <item itemvalue="Application.Market" />
-        <item itemvalue="Application.Memory" />
-        <item itemvalue="Application.Car" />
       </list>
     </recent_temporary>
   </component>
@@ -493,13 +503,6 @@
       <workItem from="1485161981498" duration="29000" />
       <workItem from="1485162014696" duration="83000" />
       <workItem from="1485177835943" duration="100000" />
-    </task>
-    <task id="LOCAL-00030" summary="Initial commit">
-      <created>1670998441531</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1670998441531</updated>
     </task>
     <task id="LOCAL-00031" summary="Initial commit">
       <created>1671005470181</created>
@@ -837,7 +840,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674152652601</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Commit">
+      <created>1674195017833</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1674195017833</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
