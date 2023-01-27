@@ -15191,3 +15191,21 @@ java.lang.StringIndexOutOfBoundsException: begin -1, end 24, length 24
 2023-01-27 08:25:28 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
 2023-01-27 08:25:28 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
 2023-01-27 08:25:28 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-01-27 11:17:10 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2023-01-27 11:17:10 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.02 ----------
+
+2023-01-27 11:17:10 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-01-27 11:17:10 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2023-01-27 11:17:10 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2023-01-27 11:17:10 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-01-27 11:17:11 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-27 11:17:12 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-01-27 11:17:13 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-01-27 11:17:13 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task12/task1218
+2023-01-27 11:21:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-27 11:21:59 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-27 11:22:00 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-01-27 11:22:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-27 11:22:16 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-27 11:22:17 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-01-27 11:22:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
